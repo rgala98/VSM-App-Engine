@@ -1,0 +1,15 @@
+{
+  "name": "vsm-web-upload",
+  "version": "1.0.0",
+  "description": "VSM Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Replon Technologies LLP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
